@@ -76,7 +76,7 @@ nav{
     .topmenu li a:hover,
     .active{
         background-color:black;
-        color: red !important;
+        color:red !important;
         font-weight:700;
         transition: all ease 0.4s;
     } 
@@ -339,9 +339,12 @@ nav{
     padding-right: 40px;
     
 }
-    
-    
 
-
+.email{
+    color:white
 }
+    
+    
+
+
 
