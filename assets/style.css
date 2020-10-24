@@ -2,8 +2,7 @@ body{
     margin: 0px;
     padding:0px;
     background-color:white;
-    background-image: ;
-     }
+  }
 
 ul{
     list-style:none;
@@ -29,10 +28,13 @@ a{
 }
 
 #sterling{
-    width:200px;
+    width:350px;
     float: right;
-    
+}
 
+#computer{
+    width:600px;
+    float: right;
 }
 
 nav{
@@ -92,7 +94,6 @@ nav{
         font-size: 18px;
     }
    
-    
     .name h1{
         font-family: monospace;
         font-size: 40px;
@@ -126,7 +127,7 @@ nav{
 
     .social i{
         color: black;
-        font-size: 16px;
+        font-size: 50px;
     }
     .social a:hover i{
         color: rgb(90, 89, 90);
