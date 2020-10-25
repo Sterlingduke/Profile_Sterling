@@ -20,13 +20,26 @@ This is my personal Portfolio that will include information about myself and my 
  * THEN I am presented with a responsive layout that adapts to my viewport
   
   ## Screenshot
-  ![portfolio demo](assets/images/Screen Shot 2020-10-24 at 7.03.05 PM.png)
-
+  ![screenshot](assets/images/Screen Shot 2020-10-24 at 7.03.05 PM.png)
 
 
 ## Project Status
-for ever on going
+prototype
+
+
+
+## Table of Contents (Optional)
+
+* [Installation](#installation)
+* [Credits](#credit)
+* [Discription](#Discription)
+
+
+## Installation
+
+* From the Horiseon Marketplace: install [the Sample Horiseon Package])file:///Users/Sterling/Desktop/Homework_2/Homework_2-SEO/02-Homework/Develop/index.html#search-engine-optimizations.
+* From the command line: `horiseon mp-install horiseon-sample`
 
 ## Credits
 
-BCS crew, me, and my really good friend google.
+2019 Trilogy Education Services, a 2U, Inc.
