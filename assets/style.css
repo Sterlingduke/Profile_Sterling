@@ -336,17 +336,17 @@ nav{
 #phone{
     float: right;
     width: 50%;
-    padding-right: 40px;
+    padding-right: 20px;
+    margin-bottom: 40px;
     
 }
 
 .email{
     
     color:white;
-   
-    
-    
-    
-
-
-
+}
+  
+@media screen and (max-width: 992px) {
+    .column {
+      width: 50%;
+  }
