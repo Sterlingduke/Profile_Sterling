@@ -24,22 +24,9 @@ This is my personal Portfolio that will include information about myself and my 
 
 
 ## Project Status
-prototype
+forever on going
 
-
-
-## Table of Contents (Optional)
-
-* [Installation](#installation)
-* [Credits](#credit)
-* [Discription](#Discription)
-
-
-## Installation
-
-* From the Horiseon Marketplace: install [the Sample Horiseon Package])file:///Users/Sterling/Desktop/Homework_2/Homework_2-SEO/02-Homework/Develop/index.html#search-engine-optimizations.
-* From the command line: `horiseon mp-install horiseon-sample`
 
 ## Credits
 
-2019 Trilogy Education Services, a 2U, Inc.
+Crew of BCS, Me, and Google
