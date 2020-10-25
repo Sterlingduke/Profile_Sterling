@@ -28,12 +28,12 @@ a{
 }
 
 #sterling{
-    width:350px;
+    width:30%;
     float: right;
 }
 
 #computer{
-    width:600px;
+    width:50%;
     float: right;
 }
 
@@ -346,7 +346,13 @@ nav{
     color:white;
 }
   
-@media screen and (max-width: 992px) {
-    .column {
+@media screen and (max-width: 600px) {
+    .body{
       width: 50%;
+  }
+
+}
+@media only screen and (max-width:400px) {
+  .body{
+    width: 25%;
   }
