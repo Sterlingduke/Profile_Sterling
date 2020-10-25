@@ -20,8 +20,12 @@ This is my personal Portfolio that will include information about myself and my 
  * THEN I am presented with a responsive layout that adapts to my viewport
   
   ## Screenshot
+<<<<<<< HEAD
   ![screenshot](./assets/images/Screen Shot 2020-10-24 at 7.03.05 PM.png)
 
+=======
+  ![image](https://user-images.githubusercontent.com/70359225/97096674-1ff28f80-1635-11eb-9f8d-6abf21a41160.png)
+>>>>>>> a81dc65efeb447376be55f3f9058be3047f35f05
 
 ## Project Status
 forever on going
